@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rct-matrix-csthks/static/css/main.e6c13ad2.css",
+    "main.js": "/rct-matrix-csthks/static/js/main.0c776461.js",
+    "index.html": "/rct-matrix-csthks/index.html",
+    "main.e6c13ad2.css.map": "/rct-matrix-csthks/static/css/main.e6c13ad2.css.map",
+    "main.0c776461.js.map": "/rct-matrix-csthks/static/js/main.0c776461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0c776461.js"
+  ]
+}
